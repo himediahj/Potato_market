@@ -6,6 +6,8 @@ java console + jdbc를 활용한 미니 프로젝트입니다.
 -----
 ## 기술 구조
 * JAVA
+  * JAVA OOP
+  * Collection
   * JDBC
   * MVC Pattern
   * JSON Parser
